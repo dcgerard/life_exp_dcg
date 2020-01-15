@@ -15,3 +15,19 @@ Here, we will examine the famous relationship between time and maximum life expe
 
 # Analysis
 
+Loads the data
+```{r}
+library(gapminder)
+data("gapminder_unfiltered")
+gapminder_unfiltered
+```
+
+
+
+
+
+
+
+
+
+
